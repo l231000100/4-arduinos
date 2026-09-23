@@ -38,6 +38,8 @@ El diagrama muestra las conexiones del bus I2C entre las cuatro placas, así com
 
 ![Diagrama del circuito fisico](diagrama/diagramafisico-4A.jpeg)
 
+![Diagrama del circuito TICKENCARD](diagrama/diagramaArduinosL2C.png)
+
 [Ver carpeta Diagramas](diagrama)
 
 ## Código
